@@ -11,8 +11,5 @@
   "publishConfig": {
     "access": "public",
     "directory": "../../dist/libs/shared"
-  },
-  "scripts": {
-    "postversion": "npm run affected:build"
   }
 }
