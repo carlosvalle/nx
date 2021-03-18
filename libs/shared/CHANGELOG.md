@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.2](https://github.com/carlosvalle/nx/compare/@gsa-sam/shared@0.1.1...@gsa-sam/shared@0.1.2) (2021-03-18)
+
+
+### Bug Fixes
+
+* **shared:** fixes postversion hook ([16b3be9](https://github.com/carlosvalle/nx/commit/16b3be977e297b7fdf7dab2db1fab19cee17f5d5))
+
+
+
+
+
 ## [0.1.1](https://github.com/carlosvalle/nx/compare/@gsa-sam/shared@0.1.0...@gsa-sam/shared@0.1.1) (2021-03-18)
 
 **Note:** Version bump only for package @gsa-sam/shared
