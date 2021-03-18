@@ -11,5 +11,6 @@
   "publishConfig": {
     "access": "public",
     "directory": "../../dist/libs/shared"
-  }
+  },
+  "gitHead": "bdfe405185c0cb89f0b6f3a8b533056185304601"
 }
