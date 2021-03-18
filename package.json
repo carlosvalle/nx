@@ -26,7 +26,6 @@
     "workspace-schematic": "nx workspace-schematic",
     "dep-graph": "nx dep-graph",
     "help": "nx help",
-    "postversion": "npm run affected:build",
     "publish:libs": "lerna publish"
   },
   "private": true,
