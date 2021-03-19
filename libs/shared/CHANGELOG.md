@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/carlosvalle/nx/compare/@gsa-sam/shared@0.1.7...@gsa-sam/shared@0.2.0) (2021-03-19)
+
+
+### Features
+
+* **layout:** add layout library ([a794871](https://github.com/carlosvalle/nx/commit/a794871385bccd237f570ab8e83d1f2ef5beaecc))
+* **shared:** add declarations property ([b51e03f](https://github.com/carlosvalle/nx/commit/b51e03f431bc56038cb1d11066857bc0110302bc))
+* **shared:** add providers property ([40c1168](https://github.com/carlosvalle/nx/commit/40c116885611a7b4d354d9f9a8fc26b867716c47))
+
+
+
+
+
 ## [0.1.7](https://github.com/carlosvalle/nx/compare/@gsa-sam/shared@0.1.5...@gsa-sam/shared@0.1.7) (2021-03-18)
 
 **Note:** Version bump only for package @gsa-sam/shared
