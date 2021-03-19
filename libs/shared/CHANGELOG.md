@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.1](https://github.com/carlosvalle/nx/compare/@gsa-sam/shared@0.2.0...@gsa-sam/shared@0.2.1) (2021-03-19)
+
+
+### Bug Fixes
+
+* **shared:** remove exports property ([2c16623](https://github.com/carlosvalle/nx/commit/2c166230819ae9fd8d510210b0e64d3b7c3ec5a7))
+
+
+
+
+
 # [0.2.0](https://github.com/carlosvalle/nx/compare/@gsa-sam/shared@0.1.7...@gsa-sam/shared@0.2.0) (2021-03-19)
 
 
